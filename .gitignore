@@ -1,0 +1,41 @@
+
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+[Aa]rtifacts/
+
+# User-specific settings
+UserSettings/
+
+# OS files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# IDE files
+.vscode/
+.idea/
+*.sln
+*.csproj
+
+# Unity Asset Store
+Assets/AssetStoreTools*
+
+# Package cache
+Library/PackageCache/
+
+# Test results
+TestResults/
+*.coverage
+*.coveragexml
+
+# Environment / secrets
+.env
+*.key
+*.pem
+*.p12
