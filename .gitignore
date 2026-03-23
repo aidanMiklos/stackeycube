@@ -8,6 +8,7 @@
 [Ll]ogs/
 [Mm]emoryCaptures/
 [Aa]rtifacts/
+WebBuild/
 
 # User-specific settings
 UserSettings/
@@ -39,3 +40,6 @@ TestResults/
 *.key
 *.pem
 *.p12
+
+*.zip
+*.slnx

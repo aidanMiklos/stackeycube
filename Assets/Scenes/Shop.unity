@@ -1595,7 +1595,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Shop
+  m_text: Select Character
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 1a7517f8b19191443adcaa443ffaf509, type: 2}
   m_sharedMaterial: {fileID: 337382329743417294, guid: 1a7517f8b19191443adcaa443ffaf509, type: 2}
@@ -1622,7 +1622,7 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 100
+  m_fontSize: 77.55
   m_fontSizeBase: 36
   m_fontWeight: 400
   m_enableAutoSizing: 1
